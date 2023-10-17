@@ -1,3 +1,5 @@
+# Releasing this tmr, Got to finish it.
+
 # Voicemeeter Potato Bypass 🎤💻
 
 👋 Welcome to the Voicemeeter Potato Bypass repository, old chap! Here, we're breaking through the chains of expensive audio software to give you the liberty of high-quality sound, all without breaking the bank. This project is an ongoing labor of love, so do bear with us as we fine-tune it for perfection. We might not be there just yet, but in the meantime, enjoy the ride! 🚀🎵
