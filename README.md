@@ -1,4 +1,4 @@
-# Releasing this tmr, Got to finish it.
+# Sorry for the wait. Recently reset my pc so there will be a whole recode. This will give me more time hopefully
 
 # Voicemeeter Potato Bypass 🎤💻
 
